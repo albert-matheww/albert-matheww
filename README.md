@@ -12,29 +12,9 @@
   </picture>
 </p>
 
-```ansi
-[1;96m                     .-""""""-.[0m           [1;96mnamitnair[0m[1;37m@[0m[1;95mdreadnought-robotics[0m
-[1;96m                  .-'          '-.[0m        [1;37m-------------------------------[0m
-[1;96m                .'                '.[0m      [1;93mOS: [0mB.Tech Mechatronics & Automation
-[1;96m               /      .------.      \[0m         VIT Chennai -- Class of 2027
-[1;96m              |      /  [1;93mo  o[1;96m  \      |[0m    [1;92mKernel: [0mCGPA 8.35 / 10
-[1;96m              |     |          |     |[0m    [1;94mIDE: [0mVS Code, PyCharm, MATLAB
-[1;96m              |      \  [1;93m----[1;96m  /      |[0m    [1;96mLanguages: [0mPython, C++, MATLAB
-[1;96m               \      '------'      /[0m     [1;95mFrameworks: [0mROS2, MuJoCo, Gazebo, OpenCV
-[1;96m                '.                .'[0m      [1;93mHardware: [0mSolidWorks, Arduino, Pixhawk/ArduPilot
-[1;96m                  '-.__________.-'[0m        [1;92mControls: [0mLQR, PID, State-Space, Kalman Filter, Backstepping
-[1;94m              _____/    |  |    \_____[0m    [1;94mCurrently: [0mSoft robotics intern @ IITGN Robotics Lab
-[1;94m             /__________|  |__________\[0m              (tendon-driven hands, w/ Prof. Madhu Vadali)
-[1;94m                  |      |      |[0m         [1;96mLeading: [0mAUV Project Head @ Dreadnought Robotics
-[1;31m                 [|]    [|]    [|][0m                 SAUVC + TAC, ROS2 migration, Gazebo sim
-[1;31m                  '      '      '[0m         [1;95mBuilding: [0mSpiRobs -- soft tentacle manipulator
-                                          [1;93mAward: [0mSAUVC 2026 Innovation Award (DPSS sensor system)
-[1;95m        // AUV :: SAUVC 2026[0m              [1;92mContact: [0mnamithnair14@gmail.com  |  linkedin.com/in/namit-nair
-                                          [1;94mGitHub: [0mgithub.com/Namit-nair
-
-[40m   [0m[41m   [0m[42m   [0m[43m   [0m[44m   [0m[45m   [0m[46m   [0m[47m   [0m
-[100m   [0m[101m   [0m[102m   [0m[103m   [0m[104m   [0m[105m   [0m[106m   [0m[107m   [0m
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Namit-nair/Namit-nair/master/neofetch-terminal.svg" alt="neofetch-style terminal card" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />

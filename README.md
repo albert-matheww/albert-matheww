@@ -29,18 +29,26 @@
   <img src="https://img.shields.io/badge/Pixhawk%2FArduPilot-3B5323?style=for-the-badge" />
 </p>
 
+<!-- github-readme-stats.vercel.app was returning 503 (service outage on their end) when this was published.
+     Re-enable once it recovers: https://github-readme-stats.vercel.app -->
+<!--
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Namit-nair&show_icons=true&theme=ocean_dark&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namit-nair&layout=compact&theme=ocean_dark&hide_border=true" />
 </p>
+-->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Namit-nair&theme=ocean-dark&hide_border=true" />
 </p>
 
+<!-- github-profile-trophy.vercel.app showed "Deployment Paused" when this was published.
+     Re-enable once it recovers: https://github-profile-trophy.vercel.app -->
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Namit-nair&theme=algolia&no-frame=true&row=1&margin-w=12&column=7" />
 </p>
+-->
 
 <p align="center">
   <a href="mailto:namithnair14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>

@@ -1,5 +1,8 @@
 <svg viewBox="0 0 856 490" width="856" height="490" xmlns="http://www.w3.org/2000/svg">
 <style>text{font-family:ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace;font-size:14px;}</style>
+<defs>
+<linearGradient id="hull" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#0e7490"/><stop offset="55%" stop-color="#22d3ee"/><stop offset="100%" stop-color="#a5f3fc"/></linearGradient>
+</defs>
 <rect x="0" y="0" width="856" height="490" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 <rect x="0" y="0" width="856" height="40" rx="10" fill="#161b22"/>
 <rect x="0" y="30" width="856" height="10" fill="#161b22"/>
@@ -7,73 +10,43 @@
 <circle cx="46" cy="20" r="6" fill="#fbbf24"/>
 <circle cx="68" cy="20" r="6" fill="#4ade80"/>
 <text x="428" y="25" text-anchor="middle" fill="#c9d1d9" opacity="0.8">namitnair@dreadnought-robotics: ~</text>
-<text x="24" y="60" xml:space="preserve"><tspan fill="#22d3ee">                     .-&quot;&quot;&quot;&quot;&quot;&quot;-.</tspan></text>
-
+<g transform="translate(0,-6)"><circle cx="319" cy="235" r="26" fill="none" stroke="#22d3ee" stroke-width="1" opacity="0.35"/><circle cx="319" cy="235" r="42" fill="none" stroke="#22d3ee" stroke-width="1" opacity="0.25"/><circle cx="319" cy="235" r="58" fill="none" stroke="#22d3ee" stroke-width="1" opacity="0.15"/><path d="M 101,235 L 53,201 L 109,225 Z" fill="#f87171" opacity="0.9"/><path d="M 101,235 L 53,269 L 109,245 Z" fill="#f87171" opacity="0.9"/><path d="M 195,207 L 215,207 L 205,187 Z" fill="#e879f9"/><path d="M 195,263 L 215,263 L 205,283 Z" fill="#e879f9" opacity="0.85"/><circle cx="83" cy="235" r="5" fill="#c9d1d9"/><line x1="83" y1="235" x2="96" y2="240" stroke="#c9d1d9" stroke-width="2" stroke-linecap="round"/><line x1="83" y1="235" x2="81" y2="249" stroke="#c9d1d9" stroke-width="2" stroke-linecap="round"/><line x1="83" y1="235" x2="70" y2="230" stroke="#c9d1d9" stroke-width="2" stroke-linecap="round"/><line x1="83" y1="235" x2="85" y2="221" stroke="#c9d1d9" stroke-width="2" stroke-linecap="round"/><ellipse cx="205" cy="235" rx="118" ry="28" fill="url(#hull)" stroke="#22d3ee" stroke-width="1.5"/><path d="M 105,215 Q 205,205 305,215" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.45"/><circle cx="309" cy="235" r="9" fill="#fbbf24" stroke="#0d1117" stroke-width="2"/><circle cx="309" cy="235" r="3" fill="#0d1117"/><circle cx="145" cy="235" r="2.5" fill="#0d1117" opacity="0.6"/><circle cx="185" cy="235" r="2.5" fill="#0d1117" opacity="0.6"/><circle cx="225" cy="235" r="2.5" fill="#0d1117" opacity="0.6"/><circle cx="265" cy="235" r="2.5" fill="#0d1117" opacity="0.6"/><rect x="171" y="259" width="68" height="16" rx="4" fill="#60a5fa" opacity="0.9"/><text x="205" y="271" text-anchor="middle" fill="#0d1117" font-size="10" font-weight="bold">DPSS</text></g>
+<text x="24" y="335" fill="#e879f9">// AUV :: SAUVC 2026 Innovation Award</text>
+<text x="24" y="355" fill="#c9d1d9" opacity="0.85">HEADING <tspan fill="#4ade80">087&#176;</tspan>   DEPTH <tspan fill="#4ade80">42.0 m</tspan></text>
+<text x="24" y="375" fill="#c9d1d9" opacity="0.85">STATUS  <tspan fill="#4ade80">ARMED</tspan>   BATT  <tspan fill="#4ade80">91%</tspan></text>
 <text x="394.48" y="60" xml:space="preserve"><tspan fill="#22d3ee">namitnair</tspan><tspan fill="#c9d1d9">@</tspan><tspan fill="#e879f9">dreadnought-robotics</tspan></text>
-
-<text x="24" y="80" xml:space="preserve"><tspan fill="#22d3ee">                  .-&#x27;          &#x27;-.</tspan></text>
 
 <text x="394.48" y="80" xml:space="preserve"><tspan fill="#c9d1d9">-------------------------------</tspan></text>
 
-<text x="24" y="100" xml:space="preserve"><tspan fill="#22d3ee">                .&#x27;                &#x27;.</tspan></text>
-
 <text x="394.48" y="100" xml:space="preserve"><tspan fill="#fbbf24">OS: </tspan><tspan fill="#c9d1d9">B.Tech Mechatronics &amp; Automation</tspan></text>
-
-<text x="24" y="120" xml:space="preserve"><tspan fill="#22d3ee">               /      .------.      \</tspan></text>
 
 <text x="394.48" y="120" xml:space="preserve"><tspan fill="#c9d1d9">    VIT Chennai -- Class of 2027</tspan></text>
 
-<text x="24" y="140" xml:space="preserve"><tspan fill="#22d3ee">              |      /  </tspan><tspan fill="#fbbf24">o  o</tspan><tspan fill="#22d3ee">  \      |</tspan></text>
-
 <text x="394.48" y="140" xml:space="preserve"><tspan fill="#4ade80">Kernel: </tspan><tspan fill="#c9d1d9">CGPA 8.35 / 10</tspan></text>
-
-<text x="24" y="160" xml:space="preserve"><tspan fill="#22d3ee">              |     |          |     |</tspan></text>
 
 <text x="394.48" y="160" xml:space="preserve"><tspan fill="#60a5fa">IDE: </tspan><tspan fill="#c9d1d9">VS Code, PyCharm, MATLAB</tspan></text>
 
-<text x="24" y="180" xml:space="preserve"><tspan fill="#22d3ee">              |      \  </tspan><tspan fill="#fbbf24">----</tspan><tspan fill="#22d3ee">  /      |</tspan></text>
-
 <text x="394.48" y="180" xml:space="preserve"><tspan fill="#22d3ee">Languages: </tspan><tspan fill="#c9d1d9">Python, C++, MATLAB</tspan></text>
-
-<text x="24" y="200" xml:space="preserve"><tspan fill="#22d3ee">               \      &#x27;------&#x27;      /</tspan></text>
 
 <text x="394.48" y="200" xml:space="preserve"><tspan fill="#e879f9">Frameworks: </tspan><tspan fill="#c9d1d9">ROS2, MuJoCo, Gazebo, OpenCV</tspan></text>
 
-<text x="24" y="220" xml:space="preserve"><tspan fill="#22d3ee">                &#x27;.                .&#x27;</tspan></text>
-
 <text x="394.48" y="220" xml:space="preserve"><tspan fill="#fbbf24">Hardware: </tspan><tspan fill="#c9d1d9">SolidWorks, Arduino, Pixhawk/ArduPilot</tspan></text>
-
-<text x="24" y="240" xml:space="preserve"><tspan fill="#22d3ee">                  &#x27;-.__________.-&#x27;</tspan></text>
 
 <text x="394.48" y="240" xml:space="preserve"><tspan fill="#4ade80">Controls: </tspan><tspan fill="#c9d1d9">LQR, PID, State-Space, Kalman Filter, Backstepping</tspan></text>
 
-<text x="24" y="260" xml:space="preserve"><tspan fill="#60a5fa">              _____/    |  |    \_____</tspan></text>
-
 <text x="394.48" y="260" xml:space="preserve"><tspan fill="#60a5fa">Currently: </tspan><tspan fill="#c9d1d9">Soft robotics intern @ IITGN Robotics Lab</tspan></text>
-
-<text x="24" y="280" xml:space="preserve"><tspan fill="#60a5fa">             /__________|  |__________\</tspan></text>
 
 <text x="394.48" y="280" xml:space="preserve"><tspan fill="#c9d1d9">           (tendon-driven hands, w/ Prof. Madhu Vadali)</tspan></text>
 
-<text x="24" y="300" xml:space="preserve"><tspan fill="#60a5fa">                  |      |      |</tspan></text>
-
 <text x="394.48" y="300" xml:space="preserve"><tspan fill="#22d3ee">Leading: </tspan><tspan fill="#c9d1d9">AUV Project Head @ Dreadnought Robotics</tspan></text>
-
-<text x="24" y="320" xml:space="preserve"><tspan fill="#f87171">                 [|]    [|]    [|]</tspan></text>
 
 <text x="394.48" y="320" xml:space="preserve"><tspan fill="#c9d1d9">         SAUVC + TAC, ROS2 migration, Gazebo sim</tspan></text>
 
-<text x="24" y="340" xml:space="preserve"><tspan fill="#f87171">                  &#x27;      &#x27;      &#x27;</tspan></text>
-
 <text x="394.48" y="340" xml:space="preserve"><tspan fill="#e879f9">Building: </tspan><tspan fill="#c9d1d9">SpiRobs -- soft tentacle manipulator</tspan></text>
-
 
 <text x="394.48" y="360" xml:space="preserve"><tspan fill="#fbbf24">Award: </tspan><tspan fill="#c9d1d9">SAUVC 2026 Innovation Award (DPSS sensor system)</tspan></text>
 
-<text x="24" y="380" xml:space="preserve"><tspan fill="#e879f9">        // AUV :: SAUVC 2026</tspan></text>
-
 <text x="394.48" y="380" xml:space="preserve"><tspan fill="#4ade80">Contact: </tspan><tspan fill="#c9d1d9">namithnair14@gmail.com  |  linkedin.com/in/namit-nair</tspan></text>
-
 
 <text x="394.48" y="400" xml:space="preserve"><tspan fill="#60a5fa">GitHub: </tspan><tspan fill="#c9d1d9">github.com/Namit-nair</tspan></text>
 

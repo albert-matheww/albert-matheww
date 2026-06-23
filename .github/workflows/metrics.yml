@@ -25,7 +25,3 @@ jobs:
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_limit: 8
-          plugin_habits: yes
-          plugin_habits_charts_type: bar
-          plugin_achievements: yes
-          plugin_achievements_display: compact

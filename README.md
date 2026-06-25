@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Namit-nair&theme=ocean-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=albert-matheww&theme=ocean-dark&hide_border=true" />
 </p>
 
 <p align="center">

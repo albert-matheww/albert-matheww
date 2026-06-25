@@ -13,10 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Namit-nair/Namit-nair/master/neofetch-terminal.svg" alt="neofetch-style terminal card" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />

@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://readme-typing-svg.demolab.com/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Namit+Nair+%7C+Mechatronics%2C+Robotics+%26+Software;AUV+%C2%B7+Soft+Robotics+%C2%B7+Embedded+%C2%B7+Full-Stack;LQR+%C2%B7+PID+%C2%B7+Kalman+Filter+%C2%B7+Backstepping;Building+tools%2C+sims%2C+and+apps+across+every+domain" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Namit+Nair+%7C+Mechatronics%2C+Robotics+%26+Software;AUV+%C2%B7+Soft+Robotics+%C2%B7+Embedded+%C2%B7+Full-Stack;Building+tools%2C+sims%2C+and+apps+across+every+domain" alt="Typing SVG" />
   </a>
 </h1>
 

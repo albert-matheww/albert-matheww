@@ -75,7 +75,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/albert-matheww/Namit-nair/master/metrics.svg" alt="GitHub metrics dashboard" />
+  <img src="https://raw.githubusercontent.com/albert-matheww/albert-matheww/master/metrics.svg" alt="GitHub metrics dashboard" />
 </p>
 
 <p align="center">

@@ -22,6 +22,26 @@
   </picture>
 </p>
 
+
+<h3 align="center">Featured Projects</h3>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/albert-matheww/claimsentry">ClaimSentry</a></b>
+      <br /><br />
+      Multi-agent AI pipeline for expense fraud and compliance triage — receipt extraction,
+      policy RAG checks and semantic duplicate detection with pgvector.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/albert-matheww/fake-screenshot-detector">Screenshot Forensics</a></b>
+      <br /><br />
+      Detects tampered chat and bank-statement screenshots via multi-cue forensic analysis —
+      compression artifacts, metadata and font inconsistencies.
+    </td>
+  </tr>
+</table>
+
 ---
 
 <p align="center"><b>Languages</b></p>

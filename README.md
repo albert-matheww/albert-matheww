@@ -40,6 +40,20 @@
       compression artifacts, metadata and font inconsistencies.
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/albert-matheww/multi-disease-ai">MultiDiseaseAI</a></b>
+      <br /><br />
+      Early multi-disease risk prediction with TabPFN — leakage-safe preprocessing,
+      SHAP explainability and a Streamlit dashboard.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/albert-matheww/PlantStressDetection">PlantStressDetection</a></b>
+      <br /><br />
+      Plant stress and disease detection — mobilenet classifier, texture svm and anomaly
+      detection over plantvillage imagery.
+    </td>
+  </tr>
 </table>
 
 ---

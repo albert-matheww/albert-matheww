@@ -1,8 +1,8 @@
-<h1 align="center">
-  <a href="https://readme-typing-svg.demolab.com/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Albert+Mathew+%7C+Software+Engineer;Full-Stack+%26+Applied+ML;Python+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+C%2B%2B;React+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Spring+Boot" alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center">Albert Mathew</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/albert-matheww/albert-matheww/master/ticker.svg" alt="Software Engineer — Full-Stack & Applied ML — Python, TypeScript, Java, C++, React, Next.js, FastAPI, Spring Boot" />
+</p>
 
 <p align="center">
   Software engineer who builds full-stack products and applied ML systems —

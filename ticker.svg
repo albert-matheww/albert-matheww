@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="700" height="50" viewBox="0 0 700 50" xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-label="Albert Mathew, Software Engineer, Full-Stack and Applied ML">
+  <defs>
+    <clipPath id="marquee-clip">
+      <rect x="0" y="0" width="700" height="50" rx="8"/>
+    </clipPath>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="700" height="50" rx="8" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="699" height="49" rx="8" fill="none" stroke="#22D3EE" stroke-opacity="0.25"/>
+
+  <g clip-path="url(#marquee-clip)">
+    <text font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" font-size="20"
+          font-weight="600" fill="#22D3EE" filter="url(#glow)" dominant-baseline="middle" y="27">
+      <animate attributeName="x" from="700" to="-1900" dur="18s" repeatCount="indefinite"/>
+      Albert Mathew&#160;&#160;•&#160;&#160;Software Engineer&#160;&#160;•&#160;&#160;Full-Stack &amp; Applied ML&#160;&#160;•&#160;&#160;Python&#160;&#160;•&#160;&#160;TypeScript&#160;&#160;•&#160;&#160;Java&#160;&#160;•&#160;&#160;C++&#160;&#160;•&#160;&#160;React&#160;&#160;•&#160;&#160;Next.js&#160;&#160;•&#160;&#160;FastAPI&#160;&#160;•&#160;&#160;Spring Boot
+    </text>
+  </g>
+</svg>

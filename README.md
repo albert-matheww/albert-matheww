@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://readme-typing-svg.demolab.com/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Albert+Mathew+%7C+Software+Engineer+%C2%B7+Full-Stack+%26+Applied+ML;Python+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+C%2B%2B;React+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Spring+Boot;Building+things+end-to-end+%E2%80%94+from+ML+pipelines+to+production+web+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Albert+Mathew+%7C+Software+Engineer;Full-Stack+%26+Applied+ML;Python+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+C%2B%2B;React+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Spring+Boot" alt="Typing SVG" />
   </a>
 </h1>
 

@@ -54,6 +54,18 @@
       detection over plantvillage imagery.
     </td>
   </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/albert-matheww/PlantStressDetection">PlantStressDetection</a></b>
+      <br /><br />
+      Computer vision pipeline for plant stress detection — mobilenet classifier, texture svm,
+      anomaly detection and severity regression on plantvillage data.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
 ---

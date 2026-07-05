@@ -7,7 +7,7 @@
 <p align="center">
   Software engineer who builds full-stack products and applied ML systems —
   from React/Node web apps to trained classifiers running in production.
-  Comfortable across the stack: frontend, backend, data, and the infra that ships it.
+  Comfortable across the stack: frontend, backend, data, and the infra that runs it.
 </p>
 
 <p align="center">

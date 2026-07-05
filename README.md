@@ -7,11 +7,7 @@
 <p align="center">
   Software engineer who builds full-stack products and applied ML systems —
   from React/Node web apps to trained classifiers running in production.
-  Comfortable across the stack: frontend, backend, data, and the infra that runs it.
-</p>
-
-<p align="center">
-  Reach me at <a href="mailto:albertmathewsunil@gmail.com">albertmathewsunil@gmail.com</a>
+  Comfortable across the stack: frontend, backend, data, and the infra that ships it.
 </p>
 
 <p align="center">
@@ -21,52 +17,6 @@
     <img alt="contribution snake animation" src="https://raw.githubusercontent.com/albert-matheww/albert-matheww/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-
-<h3 align="center">Featured Projects</h3>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/albert-matheww/claimsentry">ClaimSentry</a></b>
-      <br /><br />
-      Multi-agent AI pipeline for expense fraud and compliance triage — receipt extraction,
-      policy RAG checks and semantic duplicate detection with pgvector.
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/albert-matheww/fake-screenshot-detector">Screenshot Forensics</a></b>
-      <br /><br />
-      Detects tampered chat and bank-statement screenshots via multi-cue forensic analysis —
-      compression artifacts, metadata and font inconsistencies.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/albert-matheww/multi-disease-ai">MultiDiseaseAI</a></b>
-      <br /><br />
-      Early multi-disease risk prediction with TabPFN — leakage-safe preprocessing,
-      SHAP explainability and a Streamlit dashboard.
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/albert-matheww/PlantStressDetection">PlantStressDetection</a></b>
-      <br /><br />
-      Plant stress and disease detection — mobilenet classifier, texture svm and anomaly
-      detection over plantvillage imagery.
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/albert-matheww/PlantStressDetection">PlantStressDetection</a></b>
-      <br /><br />
-      Computer vision pipeline for plant stress detection — mobilenet classifier, texture svm,
-      anomaly detection and severity regression on plantvillage data.
-      <br /><br />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-    </td>
-  </tr>
-</table>
 
 ---
 
